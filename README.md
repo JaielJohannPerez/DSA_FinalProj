@@ -1,5 +1,5 @@
 # Description of the Project
-	The Firearm Rental System is a C++ program, which helps the user in managing weapon inventory and rentals. The program features multiple options displayed in the starting text-based interface menu.
+The Firearm Rental System is a C++ program, which helps the user in managing weapon inventory and rentals. The program features multiple options displayed in the starting text-based interface menu.
 
 1. ) View Available Firearms - Displays a formatted list of every available firearm in stock. The list is organized with the following details: Firearm ID, model, caliber, and quantity.
 
